@@ -216,6 +216,7 @@
     <module>server-session</module>
     <module>virtual-proxy</module>
     <module>function-composition</module>
+      <module>rate-limiting</module>
   </modules>
   <repositories>
     <repository>
